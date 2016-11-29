@@ -1081,8 +1081,6 @@ Text GLabel 1100 4300 2    60   Input ~ 0
 D
 Text GLabel 1100 4400 2    60   Input ~ 0
 S
-Text GLabel 1100 5050 2    60   Input ~ 0
-led
 Text GLabel 1100 5150 2    60   Input ~ 0
 buzz
 Text GLabel 1100 5250 2    60   Input ~ 0
@@ -1454,8 +1452,6 @@ Connection ~ 7550 1550
 Wire Wire Line
 	7950 1050 7950 850 
 Connection ~ 7950 850 
-Wire Wire Line
-	950  5050 1100 5050
 Wire Wire Line
 	950  5150 1100 5150
 Wire Wire Line
@@ -2671,4 +2667,5 @@ Wire Wire Line
 	950  6200 1100 6200
 Wire Wire Line
 	1100 6300 950  6300
+NoConn ~ 950  5050
 $EndSCHEMATC
