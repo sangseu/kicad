@@ -1,4 +1,4 @@
-update=Fri 02 Dec 2016 09:59:24 AM ICT
+update=Wed Dec  7 17:26:26 2016
 version=1
 last_client=kicad
 [pcbnew]
@@ -20,6 +20,19 @@ SolderMaskMinWidth=0.000000000000
 DrawSegmentWidth=0.200000000000
 BoardOutlineThickness=0.100000000000
 ModuleOutlineThickness=0.150000000000
+[cvpcb]
+version=1
+NetIExt=net
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [eeschema]
 version=1
 LibDir=
@@ -53,18 +66,6 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=Pcbnew
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
+LibName30=/media/mig-0/01CF7A638FC447B0/kicad/libs/kicad-library-master/library/relays
 [general]
 version=1
-[cvpcb]
-version=1
-NetIExt=net
