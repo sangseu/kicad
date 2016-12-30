@@ -1,0 +1,564 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:3FET-cache
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L R R6
+U 1 1 58569238
+P 5550 4600
+F 0 "R6" V 5630 4600 50  0000 C CNN
+F 1 "0.1R" V 5550 4600 50  0000 C CNN
+F 2 "Resistors_THT:Resistor_Vertical_RM7.5mm" V 5480 4600 50  0001 C CNN
+F 3 "" H 5550 4600 50  0000 C CNN
+	1    5550 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R3
+U 1 1 585692E8
+P 3650 3800
+F 0 "R3" V 3730 3800 50  0000 C CNN
+F 1 "0.5R" V 3650 3800 50  0000 C CNN
+F 2 "Resistors_THT:Resistor_Vertical_RM7.5mm" V 3580 3800 50  0001 C CNN
+F 3 "" H 3650 3800 50  0000 C CNN
+	1    3650 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R7
+U 1 1 58569304
+P 5550 3800
+F 0 "R7" V 5630 3800 50  0000 C CNN
+F 1 "0.5R" V 5550 3800 50  0000 C CNN
+F 2 "Resistors_THT:Resistor_Vertical_RM7.5mm" V 5480 3800 50  0001 C CNN
+F 3 "" H 5550 3800 50  0000 C CNN
+	1    5550 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R14
+U 1 1 58569325
+P 7800 3800
+F 0 "R14" V 7880 3800 50  0000 C CNN
+F 1 "0.5R" V 7800 3800 50  0000 C CNN
+F 2 "Resistors_THT:Resistor_Vertical_RM7.5mm" V 7730 3800 50  0001 C CNN
+F 3 "" H 7800 3800 50  0000 C CNN
+	1    7800 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R1
+U 1 1 58569349
+P 3150 3200
+F 0 "R1" V 3230 3200 50  0000 C CNN
+F 1 "470R" V 3150 3200 50  0000 C CNN
+F 2 "Resistors_THT:Resistor_Horizontal_RM7mm" V 3080 3200 50  0001 C CNN
+F 3 "" H 3150 3200 50  0000 C CNN
+	1    3150 3200
+	0    1    1    0   
+$EndComp
+$Comp
+L R R4
+U 1 1 58569372
+P 5050 3200
+F 0 "R4" V 5130 3200 50  0000 C CNN
+F 1 "470R" V 5050 3200 50  0000 C CNN
+F 2 "Resistors_THT:Resistor_Horizontal_RM7mm" V 4980 3200 50  0001 C CNN
+F 3 "" H 5050 3200 50  0000 C CNN
+	1    5050 3200
+	0    1    1    0   
+$EndComp
+$Comp
+L R R2
+U 1 1 585693C1
+P 3150 3600
+F 0 "R2" V 3230 3600 50  0000 C CNN
+F 1 "1k" V 3150 3600 50  0000 C CNN
+F 2 "Resistors_THT:Resistor_Horizontal_RM7mm" V 3080 3600 50  0001 C CNN
+F 3 "" H 3150 3600 50  0000 C CNN
+	1    3150 3600
+	0    1    1    0   
+$EndComp
+$Comp
+L LM324 U1
+U 3 1 5856973F
+P 6850 4450
+F 0 "U1" H 6900 4650 50  0000 C CNN
+F 1 "LM324" H 7000 4250 50  0000 C CNN
+F 2 "Housings_DIP:DIP-14_W7.62mm_LongPads" H 6800 4550 50  0001 C CNN
+F 3 "" H 6900 4650 50  0000 C CNN
+	3    6850 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L LM324 U1
+U 2 1 585697EE
+P 2600 3200
+F 0 "U1" H 2650 3400 50  0000 C CNN
+F 1 "LM324" H 2750 3000 50  0000 C CNN
+F 2 "Housings_DIP:DIP-14_W7.62mm_LongPads" H 2550 3300 50  0001 C CNN
+F 3 "" H 2650 3400 50  0000 C CNN
+	2    2600 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L LM324 U1
+U 4 1 585698C5
+P 4500 3200
+F 0 "U1" H 4550 3400 50  0000 C CNN
+F 1 "LM324" H 4650 3000 50  0000 C CNN
+F 2 "Housings_DIP:DIP-14_W7.62mm_LongPads" H 4450 3300 50  0001 C CNN
+F 3 "" H 4550 3400 50  0000 C CNN
+	4    4500 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L LM324 U1
+U 1 1 5856992E
+P 6750 3200
+F 0 "U1" H 6800 3400 50  0000 C CNN
+F 1 "LM324" H 6900 3000 50  0000 C CNN
+F 2 "Housings_DIP:DIP-14_W7.62mm_LongPads" H 6700 3300 50  0001 C CNN
+F 3 "" H 6800 3400 50  0000 C CNN
+	1    6750 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Q_NMOS_GDS Q1
+U 1 1 58569999
+P 3550 3200
+F 0 "Q1" H 3850 3250 50  0000 R CNN
+F 1 "Q_NMOS_GDS" H 4200 3150 50  0000 R CNN
+F 2 "TO_SOT_Packages_THT:TO-247_Vertical_Neutral123" H 3750 3300 50  0001 C CNN
+F 3 "" H 3550 3200 50  0000 C CNN
+	1    3550 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Q_NMOS_GDS Q2
+U 1 1 58569A7D
+P 5450 3200
+F 0 "Q2" H 5750 3250 50  0000 R CNN
+F 1 "Q_NMOS_GDS" H 6100 3150 50  0000 R CNN
+F 2 "TO_SOT_Packages_THT:TO-247_Vertical_Neutral123" H 5650 3300 50  0001 C CNN
+F 3 "" H 5450 3200 50  0000 C CNN
+	1    5450 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Q_NMOS_GDS Q3
+U 1 1 58569ADD
+P 7700 3200
+F 0 "Q3" H 8000 3250 50  0000 R CNN
+F 1 "Q_NMOS_GDS" H 8350 3150 50  0000 R CNN
+F 2 "TO_SOT_Packages_THT:TO-247_Vertical_Neutral123" H 7900 3300 50  0001 C CNN
+F 3 "" H 7700 3200 50  0000 C CNN
+	1    7700 3200
+	1    0    0    -1  
+$EndComp
+Text GLabel 1400 2950 2    60   Input ~ 0
+D
+Text GLabel 1400 2400 2    60   Input ~ 0
+G
+Text GLabel 1400 2750 2    60   Input ~ 0
+S
+Text Notes 1050 3250 0    60   ~ 0
+S->GND
+Text GLabel 5550 2600 1    60   Input ~ 0
+D
+$Comp
+L C C1
+U 1 1 58580A8E
+P 2950 3400
+F 0 "C1" H 2975 3500 50  0000 L CNN
+F 1 "22nF" H 2975 3300 50  0000 L CNN
+F 2 "Capacitors_THT:C_Disc_D3_P2.5" H 2988 3250 50  0001 C CNN
+F 3 "" H 2950 3400 50  0000 C CNN
+	1    2950 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L C C2
+U 1 1 58580FED
+P 4850 3400
+F 0 "C2" H 4875 3500 50  0000 L CNN
+F 1 "22nF" H 4875 3300 50  0000 L CNN
+F 2 "Capacitors_THT:C_Disc_D3_P2.5" H 4888 3250 50  0001 C CNN
+F 3 "" H 4850 3400 50  0000 C CNN
+	1    4850 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R5
+U 1 1 58581104
+P 5050 3600
+F 0 "R5" V 5130 3600 50  0000 C CNN
+F 1 "1k" V 5050 3600 50  0000 C CNN
+F 2 "Resistors_THT:Resistor_Horizontal_RM7mm" V 4980 3600 50  0001 C CNN
+F 3 "" H 5050 3600 50  0000 C CNN
+	1    5050 3600
+	0    1    1    0   
+$EndComp
+$Comp
+L R R12
+U 1 1 585818E6
+P 7300 3200
+F 0 "R12" V 7380 3200 50  0000 C CNN
+F 1 "470R" V 7300 3200 50  0000 C CNN
+F 2 "Resistors_THT:Resistor_Horizontal_RM7mm" V 7230 3200 50  0001 C CNN
+F 3 "" H 7300 3200 50  0000 C CNN
+	1    7300 3200
+	0    1    1    0   
+$EndComp
+$Comp
+L C C3
+U 1 1 58581D7D
+P 7100 3400
+F 0 "C3" H 7125 3500 50  0000 L CNN
+F 1 "22nF" H 7125 3300 50  0000 L CNN
+F 2 "Capacitors_THT:C_Disc_D3_P2.5" H 7138 3250 50  0001 C CNN
+F 3 "" H 7100 3400 50  0000 C CNN
+	1    7100 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R13
+U 1 1 58581E29
+P 7300 3600
+F 0 "R13" V 7380 3600 50  0000 C CNN
+F 1 "1k" V 7300 3600 50  0000 C CNN
+F 2 "Resistors_THT:Resistor_Horizontal_RM7mm" V 7230 3600 50  0001 C CNN
+F 3 "" H 7300 3600 50  0000 C CNN
+	1    7300 3600
+	0    1    1    0   
+$EndComp
+$Comp
+L R R9
+U 1 1 58584614
+P 6250 4800
+F 0 "R9" V 6330 4800 50  0000 C CNN
+F 1 "1k" V 6250 4800 50  0000 C CNN
+F 2 "Resistors_THT:Resistor_Horizontal_RM7mm" V 6180 4800 50  0001 C CNN
+F 3 "" H 6250 4800 50  0000 C CNN
+	1    6250 4800
+	0    1    1    0   
+$EndComp
+$Comp
+L R R11
+U 1 1 58584CB9
+P 6750 4800
+F 0 "R11" V 6830 4800 50  0000 C CNN
+F 1 "8.2k" V 6750 4800 50  0000 C CNN
+F 2 "Resistors_THT:Resistor_Horizontal_RM7mm" V 6680 4800 50  0001 C CNN
+F 3 "" H 6750 4800 50  0000 C CNN
+	1    6750 4800
+	0    1    1    0   
+$EndComp
+$Comp
+L GNDA #PWR01
+U 1 1 58587264
+P 1750 2850
+F 0 "#PWR01" H 1750 2600 50  0001 C CNN
+F 1 "GNDA" H 1750 2700 50  0000 C CNN
+F 2 "" H 1750 2850 50  0000 C CNN
+F 3 "" H 1750 2850 50  0000 C CNN
+	1    1750 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L GNDA #PWR02
+U 1 1 5858771A
+P 5550 4850
+F 0 "#PWR02" H 5550 4600 50  0001 C CNN
+F 1 "GNDA" H 5550 4700 50  0000 C CNN
+F 2 "" H 5550 4850 50  0000 C CNN
+F 3 "" H 5550 4850 50  0000 C CNN
+	1    5550 4850
+	1    0    0    -1  
+$EndComp
+Text GLabel 1750 2700 1    60   Input ~ 0
+S
+$Comp
+L GNDA #PWR03
+U 1 1 58589A8E
+P 6050 4850
+F 0 "#PWR03" H 6050 4600 50  0001 C CNN
+F 1 "GNDA" H 6050 4700 50  0000 C CNN
+F 2 "" H 6050 4850 50  0000 C CNN
+F 3 "" H 6050 4850 50  0000 C CNN
+	1    6050 4850
+	1    0    0    -1  
+$EndComp
+Text GLabel 1400 4100 2    60   Input ~ 0
+I_N
+Text GLabel 7450 4450 2    60   Input ~ 0
+I_N
+$Comp
+L CONN_01X03 P2
+U 1 1 5858E261
+P 1100 4200
+F 0 "P2" H 1100 4400 50  0000 C CNN
+F 1 "OUT" V 1200 4200 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x03" H 1100 4200 50  0001 C CNN
+F 3 "" H 1100 4200 50  0000 C CNN
+	1    1100 4200
+	-1   0    0    1   
+$EndComp
+$Comp
+L THERMISTOR TH1
+U 1 1 5858F9CD
+P 1650 4500
+F 0 "TH1" V 1750 4550 50  0000 C CNN
+F 1 "THERMISTOR" V 1550 4500 50  0000 C BNN
+F 2 "Resistors_THT:Resistor_Horizontal_RM7mm" H 1650 4500 50  0001 C CNN
+F 3 "" H 1650 4500 50  0000 C CNN
+	1    1650 4500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1750 2700 1750 2850
+Wire Wire Line
+	6550 4550 6500 4550
+Wire Wire Line
+	6500 4550 6500 4800
+Wire Wire Line
+	6400 4800 6600 4800
+Connection ~ 6500 4800
+Wire Wire Line
+	6900 4800 7250 4800
+Wire Wire Line
+	7250 4800 7250 4450
+Wire Wire Line
+	7150 4450 7450 4450
+Connection ~ 7250 4450
+Wire Wire Line
+	1650 4250 1650 4200
+Wire Wire Line
+	1650 4200 1300 4200
+Wire Wire Line
+	1300 4300 1300 4800
+Wire Wire Line
+	1300 4800 1650 4800
+Wire Wire Line
+	1650 4800 1650 4750
+Wire Wire Line
+	1400 4100 1300 4100
+Wire Wire Line
+	3650 3000 3650 2750
+Wire Wire Line
+	3650 2750 7800 2750
+Connection ~ 5550 2750
+Wire Wire Line
+	7800 2750 7800 3000
+Wire Wire Line
+	3650 3400 3650 3650
+Wire Wire Line
+	5550 3400 5550 3650
+Wire Wire Line
+	7800 3400 7800 3650
+Wire Wire Line
+	4800 3200 4900 3200
+Wire Wire Line
+	5250 3200 5200 3200
+Wire Wire Line
+	4850 3250 4850 3200
+Connection ~ 4850 3200
+Wire Wire Line
+	3350 3200 3300 3200
+Wire Wire Line
+	2900 3200 3000 3200
+Wire Wire Line
+	2950 3250 2950 3200
+Connection ~ 2950 3200
+Wire Wire Line
+	2950 3550 2950 3600
+Wire Wire Line
+	2250 3600 3000 3600
+Wire Wire Line
+	3300 3600 3650 3600
+Connection ~ 3650 3600
+Wire Wire Line
+	4850 3550 4850 3600
+Wire Wire Line
+	4150 3600 4900 3600
+Wire Wire Line
+	5200 3600 5550 3600
+Connection ~ 5550 3600
+Wire Wire Line
+	7050 3200 7150 3200
+Wire Wire Line
+	7450 3200 7500 3200
+Wire Wire Line
+	7100 3250 7100 3200
+Connection ~ 7100 3200
+Wire Wire Line
+	7100 3550 7100 3600
+Wire Wire Line
+	6400 3600 7150 3600
+Wire Wire Line
+	7450 3600 7800 3600
+Connection ~ 7800 3600
+Wire Wire Line
+	2300 3300 2250 3300
+Wire Wire Line
+	2250 3300 2250 3600
+Connection ~ 2950 3600
+Wire Wire Line
+	4200 3300 4150 3300
+Wire Wire Line
+	4150 3300 4150 3600
+Connection ~ 4850 3600
+Wire Wire Line
+	6450 3300 6400 3300
+Wire Wire Line
+	6400 3300 6400 3600
+Connection ~ 7100 3600
+Wire Wire Line
+	1400 2750 1300 2750
+Wire Wire Line
+	1300 2850 1400 2850
+Wire Wire Line
+	1400 2950 1300 2950
+Wire Wire Line
+	3650 3950 3650 4050
+Wire Wire Line
+	3650 4050 7800 4050
+Wire Wire Line
+	7800 4050 7800 3950
+Connection ~ 5550 4050
+Wire Wire Line
+	6450 3100 6400 3100
+Wire Wire Line
+	6400 3100 6400 2850
+Wire Wire Line
+	6400 2850 2250 2850
+Wire Wire Line
+	2250 2700 2250 3100
+Wire Wire Line
+	2250 3100 2300 3100
+Wire Wire Line
+	4200 3100 4150 3100
+Wire Wire Line
+	4150 3100 4150 2850
+Connection ~ 4150 2850
+Text GLabel 2250 2700 1    60   Input ~ 0
+G
+Connection ~ 2250 2850
+Text GLabel 1400 2550 2    60   Input ~ 0
+V+
+Text GLabel 1400 2650 2    60   Input ~ 0
+V-
+Wire Wire Line
+	1400 2550 1300 2550
+Wire Wire Line
+	1300 2650 1400 2650
+Text GLabel 2500 2700 1    60   Input ~ 0
+V+
+Text GLabel 2500 3700 3    60   Input ~ 0
+V-
+Wire Wire Line
+	2500 3500 2500 3700
+Wire Wire Line
+	2500 2900 2500 2700
+Wire Wire Line
+	6100 4800 6050 4800
+Wire Wire Line
+	6050 4800 6050 4850
+Wire Wire Line
+	5550 2600 5550 3000
+Wire Wire Line
+	5550 3950 5550 4450
+Wire Wire Line
+	5550 4750 5550 4850
+Wire Wire Line
+	6550 4350 5550 4350
+Connection ~ 5550 4350
+$Comp
+L CONN_01X03 P3
+U 1 1 585855D3
+P 1100 2850
+F 0 "P3" H 1100 3050 50  0000 C CNN
+F 1 "IN" V 1200 2850 50  0000 C CNN
+F 2 "Connectors_Terminal_Blocks:TerminalBlock_Pheonix_PT-3.5mm_3pol" H 1100 2850 50  0001 C CNN
+F 3 "" H 1100 2850 50  0000 C CNN
+	1    1100 2850
+	-1   0    0    1   
+$EndComp
+$Comp
+L CONN_01X01 P1
+U 1 1 58588E46
+P 1100 2550
+F 0 "P1" H 1100 2650 50  0000 C CNN
+F 1 "V+" V 1200 2550 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x01" H 1100 2550 50  0001 C CNN
+F 3 "" H 1100 2550 50  0000 C CNN
+	1    1100 2550
+	-1   0    0    1   
+$EndComp
+$Comp
+L CONN_01X01 P4
+U 1 1 58588F76
+P 1100 2650
+F 0 "P4" H 1100 2750 50  0000 C CNN
+F 1 "V-" V 1200 2650 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x01" H 1100 2650 50  0001 C CNN
+F 3 "" H 1100 2650 50  0000 C CNN
+	1    1100 2650
+	-1   0    0    1   
+$EndComp
+$Comp
+L CONN_01X01 P5
+U 1 1 58591BB3
+P 1100 2400
+F 0 "P5" H 1100 2500 50  0000 C CNN
+F 1 "G" V 1200 2400 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x01" H 1100 2400 50  0001 C CNN
+F 3 "" H 1100 2400 50  0000 C CNN
+	1    1100 2400
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	1400 2400 1300 2400
+NoConn ~ 1400 2850
+$EndSCHEMATC
