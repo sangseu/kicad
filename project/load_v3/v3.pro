@@ -1,4 +1,4 @@
-update=Sat 07 Jan 2017 12:08:42 PM ICT
+update=Tue 10 Jan 2017 05:12:39 PM ICT
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,16 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=Pcbnew
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
 [eeschema]
 version=1
 LibDir=
@@ -68,5 +58,15 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=/media/mig-0/01CF7A638FC447B0/kicad/libs/kicad-library-master/library/relays
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [general]
 version=1

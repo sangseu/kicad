@@ -837,7 +837,7 @@ F 1 "LM324N" H 6700 5400 50  0000 C CNN
 F 2 "Housings_DIP:DIP-14_W7.62mm_LongPads" H 6500 5700 50  0001 C CNN
 F 3 "" H 6600 5800 50  0000 C CNN
 	3    6550 5600
-	-1   0    0    1   
+	-1   0    0    -1  
 $EndComp
 $Comp
 L LM324N U5
@@ -1342,7 +1342,7 @@ F 1 "330R" V 6000 5600 50  0000 C CNN
 F 2 "Resistors_THT:Resistor_Horizontal_RM7mm" V 5930 5600 50  0001 C CNN
 F 3 "" H 6000 5600 50  0000 C CNN
 	1    6000 5600
-	0    1    1    0   
+	0    1    -1   0   
 $EndComp
 $Comp
 L C C23
@@ -2273,7 +2273,7 @@ Wire Wire Line
 	6150 5600 6250 5600
 Connection ~ 6200 5600
 Wire Wire Line
-	5400 5600 5750 5600
+	5400 5600 5850 5600
 Wire Wire Line
 	5750 5600 5750 5650
 Wire Wire Line
@@ -2745,7 +2745,7 @@ F 3 "" H 8800 3750 50  0000 C CNN
 	1    8800 3750
 	1    0    0    -1  
 $EndComp
-Text Notes 7450 1850 0    60   ~ 0
+Text Notes 7450 1900 0    60   ~ 0
 Us = Un - Udiode
 $Comp
 L +12V #PWR050
