@@ -1,0 +1,77 @@
+Id,Designator,Package,Quantity,Designation,,,,,,,,Danh sách SP,,,,
+70,"C13,C16",C_Rect_L7_W2.5_P5,2,103,,,,,,,,Tên Sản Phẩm,Thuộc tính,Giá bán,Số lượng mua,Số tiền
+42,R35,Resistor_Horizontal_RM20mm,1,0.1R-2W,,,,,,,,Trở Vạch 1/4W 5% 3.9K (50c) ,,2000 VNĐ,1,2000 VNĐ
+57,R12,Resistor_Horizontal_RM15mm,1,0.33R-1W,,,,,,,,Trở 5% 2W 47K ,,1000 VNĐ,10,10000 VNĐ
+20,L1,trafo-siemens-RM8-12A,1,1.253 mH,,,,,,,,2N3906 TO92 TRANS PNP 0.2A 40V (DIP) ,,300 VNĐ,4,1200 VNĐ
+2,C1,RV_Disc_D12_W4_P7.5,1,100 nF,,,,,,,,Tụ gốm 470p 471 50V( 10C) ,,1000 VNĐ,1,1000 VNĐ
+3,"C4,C8,C19",C_Rect_L7_W2.5_P5,3,100nF-50V,,,,,,,,Trở Vạch 1/4W 5% 27K (50c) ,,2000 VNĐ,1,2000 VNĐ
+45,R39,R_0805_HandSoldering,1,100R,,,,,,,,Trở Vạch 1/4W 5% 20K (50c) ,,2000 VNĐ,1,2000 VNĐ
+41,R34,Resistor_Horizontal_RM10mm,1,100R-1W,,,,,,,,S8050 SOT23 Trans NPN 0.5A 40V (SMD-J3Y) ,,300 VNĐ,5,1500 VNĐ
+66,C17,C_Radial_D6.3_L11.2_P2.5,1,100uF35V,,,,,,,,Tụ 0805 102-1nF 10% 50V ( 10c) ,,2000 VNĐ,1,2000 VNĐ
+6,"C10,C11",C_Disc_D12_P7.75,2,103 2kv,,,,,,,,Trở 0805 5% 3.3K (50c) ,,2000 VNĐ,1,2000 VNĐ
+28,"R2,R4,R28,R29",R_0805_HandSoldering,4,10k,,,,,,,,Trở 5% 2W 56R ,,1000 VNĐ,10,10000 VNĐ
+32,"R10,R33",R_0805_HandSoldering,2,10R,,,,,,,,Trở 5% 1W 150K ,,250 VNĐ,10,2500 VNĐ
+49,RV1,RV_Disc_D12_W3.9_P7.5,1,14D471K,,,,,,,,Trở Vạch 1/4W 5% 15K (50c) ,,2000 VNĐ,1,2000 VNĐ
+30,R6,Resistor_Horizontal_RM15mm,1,150K1W,,,,,,,,Tụ Gốm 103 10nF 50V ( 10C) ,,1000 VNĐ,1,1000 VNĐ
+29,R5,R_0805_HandSoldering,1,15k,,,,,,,,Tụ Cao Áp 103 3KV ,,1000 VNĐ,5,5000 VNĐ
+48,"R43,R38",Resistor_Horizontal_RM7mm,2,15k,,,,,,,,Diode 1N5819 1A 40V (Schottky) ,,750 VNĐ,4,3000 VNĐ
+35,R15,Resistor_Horizontal_RM15mm,1,15k-1W,,,,,,,,Trở 5% 2W 0.1R ,,1000 VNĐ,5,5000 VNĐ
+51,T1,inductors-MFE,1,180uH,,,,,,,,Tụ Hóa 100uF 35V ,,500 VNĐ,10,5000 VNĐ
+33,"R11,R14",R_0805_HandSoldering,2,1k,,,,,,,,Varistor 7D471K 470V ,,1000 VNĐ,5,5000 VNĐ
+34,"R13,R30,R31,R32,R26,R7,R25",Resistor_Horizontal_RM7mm,7,1k,,,,,,,,Trở 0805 5% 100R (50c) ,,2000 VNĐ,1,2000 VNĐ
+76,R22,Resistor_Horizontal_RM7mm,1,1k-1%,,,,,,,,Trở 5% 1W 100R ,,250 VNĐ,10,2500 VNĐ
+12,"D9,D10",Diode_DO-41_SOD81_Horizontal_RM10,2,1N4148,,,,,,,,Tụ Hóa 0.47uF 50V 5x11MM ,,300 VNĐ,3,900 VNĐ
+75,D18,Diode_DO-41_SOD81_Vertical_AnodeUp,1,1N4148,,,,,,,,TL431 TO92 ,,1500 VNĐ,5,7500 VNĐ
+8,"D1,D5,D7,D8",Diode_DO-201AD_Horizontal_RM15,4,1N5408,,,,,,,,MUR860 U860 TO220 DIODE 8A 600V ,,15000 VNĐ,2,30000 VNĐ
+10,D3,Diode_DO-41_SOD81_Horizontal_RM10,1,1N5819,,,,,,,,TIP122 TO220 TRANS DarLingTon NPN 5A 100V ,,3000 VNĐ,2,6000 VNĐ
+61,C3,C_0805_HandSoldering,1,1nF,,,,,,,,Diode FR207 2A 1000V ( DIP) ,,500 VNĐ,5,2500 VNĐ
+71,C15,C_Rect_L7_W2.5_P5,1,1nF-50V,,,,,,,,DIAC DB3 DO35 ,,500 VNĐ,4,2000 VNĐ
+43,"R36,R41",R_0805_HandSoldering,2,20k,,,,,,,,Diode Zener 1W 12V DIP 1N4742A ,,1500 VNĐ,6,9000 VNĐ
+47,R42,Resistor_Horizontal_RM7mm,1,20k,,,,,,,,Gen Co Nhiệt Phi 10 Đen (1 Mét) ,,9000 VNĐ,1,9000 VNĐ
+25,Q2,TO-220_Neutral123_Vertical_LargePads,1,20N60,,,,,,,,BT151-500R TO220 THYRISTOR 12A 500V ,,4500 VNĐ,2,9000 VNĐ
+67,C18,C_Radial_D6.3_L11.2_P2.5,1,220uF16V,,,,,,,,Trở Vạch 1/4W 5% 7.5K (50c) ,,2000 VNĐ,1,2000 VNĐ
+7,C14,C_0805_HandSoldering,1,22pF25V,,,,,,,,Trở 0805 5% 8.2K (50c) ,,2000 VNĐ,1,2000 VNĐ
+38,"R18,R19",Resistor_Horizontal_RM7mm,2,27k,,,,,,,,Diode 1N5408 3A 1000V DIP DO-210AD ,,2000 VNĐ,10,20000 VNĐ
+27,Q4,TO-92_Inline_Wide,1,2N3906,,,,,,,,Tụ 0805 104-100nF 10% 50V (10c) ,,2000 VNĐ,1,2000 VNĐ
+65,C12,C_Radial_D10_L21_P5,1,330uF100V,,,,,,,,Tụ gốm 472-4.7nF 50V (10c) ,,1000 VNĐ,1,1000 VNĐ
+37,R17,R_0805_HandSoldering,1,33k,,,,,,,,Tụ Gốm 104 100nF 50V ( 10c) ,,1000 VNĐ,1,1000 VNĐ
+31,R9,Resistor_Horizontal_RM7mm,1,33R2,,,,,,,,Trở 0805 1% 49.9K (50c) ,,4000 VNĐ,1,4000 VNĐ
+44,R37,Resistor_Horizontal_RM7mm,1,3k,,,,,,,,Trở Vạch 1/4W 5% 56K (50c) ,,2000 VNĐ,1,2000 VNĐ
+46,R40,R_0805_HandSoldering,1,3k,,,,,,,,Trở 5% 1W 15K ,,250 VNĐ,10,2500 VNĐ
+40,R21,R_0805_HandSoldering,1,3k3,,,,,,,,,,,,
+36,R16,R_0805_HandSoldering,1,4.7k-1%,,,,,,,,,,,,
+60,C2,C_Rect_L7_W2.5_P5,1,4.7nF,,,,,,,,,,,,
+68,C7,C_Rect_L7_W2.5_P5,1,470pF50V,,,,,,,,,,,,
+64,C6,C_Rect_L7_W2.5_P5,1,471 2kv,???,,,,,,,,,,,
+58,R8,Resistor_Horizontal_RM15mm,1,47k-2W,,,,,,,,,,,,
+5,C9,C_Radial_D6.3_L11.2_P2.5,1,47uF50V,,,,,,,,,,,,
+73,R24,Resistor_Horizontal_RM7mm,1,49.9k-1%,???,,,,,,,,,,,
+72,R23,Resistor_Horizontal_RM7mm,1,56k-1%,,,,,,,,,,,,
+63,R3,Resistor_Horizontal_RM15mm,1,56R-2W,,,,,,,,,,,,
+52,TH1,R3,1,5D-11,,,,,,,,,,,,
+53,TH2,R3,1,5D-13,,,,,,,,,,,,
+4,C5,C_Radial_D18_L36_P7.5,1,68uF400V,,,,,,,,,,,,
+39,R20,R_0805_HandSoldering,1,7.5k,???,,,,,,,,,,,
+59,R1,R_0805_HandSoldering,1,8.2k,,,,,,,,,,,,
+17,D17,Diode_TO-220_Dual_CommonCathode_Vertical,1,BT151,,,,,,,,,,,,
+13,D11,LED-5MM,1,charging,,,,,,,,,,,,
+15,D14,Diode_DO-35_SOD27_Horizontal_RM10,1,D_Z 12V,,,,,,,,,,,,
+16,D16,Diode_DO-35_SOD27_Horizontal_RM10,1,DIAC-DB3,,,,,,,,,,,,
+23,P3,Molex_KK-6410-02_02x2.54mm_Straight,1,FAN,,,,,,,,,,,,
+9,"D2,D13",Diode_DO-41_SOD81_Horizontal_RM10,2,FR207,,,,,,,,,,,,
+18,F1,Fuseholder5x20_horiz_open_inline_Type-I,1,Fuse-2A,,,,,,,,,,,,
+69,F2,Fuseholder5x20_horiz_open_inline_Type-I,1,Fuse-5A,,,,,,,,,,,,
+19,"HS1,HS2",heatsink-D03PA,2,Heatsink,,,,,,,,,,,,
+21,P1,MountingHole_2.2mm_M2_DIN965_Pad,1,IN1,,,,,,,,,,,,
+22,P2,MountingHole_2.2mm_M2_DIN965_Pad,1,IN2,,,,,,,,,,,,
+56,U3,DIP-8_W7.62mm_LongPads,1,LM358,,,,,,,,,,,,
+62,D6,Diode_TO-220_Vertical,1,MUR860,,,,,,,,,,,,
+1,P4,MountingHole_2.2mm_M2_DIN965_Pad,1,OUT-,,,,,,,,,,,,
+24,P5,MountingHole_2.2mm_M2_DIN965_Pad,1,OUT+,,,,,,,,,,,,
+55,U2,DIP-4_W7.62mm,1,PC817,,,,,,,,,,,,
+14,D12,LED-5MM,1,power,,,,,,,,,,,,
+50,RV2,Potentiometer_Bourns_3296W_3-8Zoll_Inline_ScrewUp,1,RV-1k,,,,,,,,,,,,
+26,Q3,TO-220_Neutral123_Vertical,1,TIP122,,,,,,,,,,,,
+11,"D4,D15",TO-92_Inline_Wide,2,TL431LP,,,,,,,,,,,,
+74,Q1,SOT-23,1,tran-S8050,,,,,,,,,,,,
+54,U1,DIP-8_W7.62mm_LongPads,1,UC3842,,,,,,,,,,,,
