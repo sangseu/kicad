@@ -1,0 +1,811 @@
+Cmp-Mod V01 Created by PcbNew   date = 12/06/2017 9:16:18 SA
+
+BeginCmp
+TimeStamp = 58C26BBB
+Path = /58A7D811
+Reference = P4;
+ValeurCmp = OUT-;
+IdModule  = Mounting_Holes:MountingHole_2.2mm_M2_DIN965_Pad;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26AAD
+Path = /58A51A3D
+Reference = C1;
+ValeurCmp = 100 nF;
+IdModule  = Varistors:RV_Disc_D12_W4_P7.5;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26ABF
+Path = /58A66857
+Reference = C4;
+ValeurCmp = 100nF-50V;
+IdModule  = Capacitors_THT:C_Rect_L7_W2.5_P5;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26AC5
+Path = /58A523C2
+Reference = C5;
+ValeurCmp = 68uF400V;
+IdModule  = Capacitors_THT:C_Radial_D18_L36_P7.5;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26ADD
+Path = /58A5B93C
+Reference = C9;
+ValeurCmp = 47uF50V;
+IdModule  = Capacitors_THT:C_Radial_D6.3_L11.2_P2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26AE3
+Path = /58A576BB
+Reference = C10;
+ValeurCmp = 103 2kv;
+IdModule  = Capacitors_THT:C_Disc_D12_P7.75;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26AFB
+Path = /58A9CDC8
+Reference = C14;
+ValeurCmp = 22pF25V;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26B1F
+Path = /58CF7610
+Reference = D1;
+ValeurCmp = 1N5408;
+IdModule  = Diodes_THT:Diode_DO-201AD_Horizontal_RM15;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26B25
+Path = /58A56229
+Reference = D2;
+ValeurCmp = FR207;
+IdModule  = Diodes_THT:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26B2B
+Path = /58A582E0
+Reference = D3;
+ValeurCmp = 1N5819;
+IdModule  = Diodes_THT:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26B32
+Path = /58A9CF6A
+Reference = D4;
+ValeurCmp = TL431LP;
+IdModule  = TO_SOT_Packages_THT:TO-92_Inline_Wide;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26B38
+Path = /58CF7DBC
+Reference = D5;
+ValeurCmp = 1N5408;
+IdModule  = Diodes_THT:Diode_DO-201AD_Horizontal_RM15;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26B44
+Path = /58CF7EE8
+Reference = D7;
+ValeurCmp = 1N5408;
+IdModule  = Diodes_THT:Diode_DO-201AD_Horizontal_RM15;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26B4A
+Path = /58CF801D
+Reference = D8;
+ValeurCmp = 1N5408;
+IdModule  = Diodes_THT:Diode_DO-201AD_Horizontal_RM15;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26B50
+Path = /58C74680
+Reference = D9;
+ValeurCmp = 1N4148;
+IdModule  = Diodes_THT:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26B56
+Path = /58CA24F6
+Reference = D10;
+ValeurCmp = 1N4148;
+IdModule  = Diodes_THT:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26B5C
+Path = /58D3F035
+Reference = D11;
+ValeurCmp = charging;
+IdModule  = LEDs:LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26B62
+Path = /58D3F42A
+Reference = D12;
+ValeurCmp = power;
+IdModule  = LEDs:LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26B68
+Path = /58C035D0
+Reference = D13;
+ValeurCmp = FR207;
+IdModule  = Diodes_THT:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26B6E
+Path = /58C0A83A
+Reference = D14;
+ValeurCmp = D_Z 12V;
+IdModule  = Diodes_THT:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26B75
+Path = /58C22939
+Reference = D15;
+ValeurCmp = TL431LP;
+IdModule  = TO_SOT_Packages_THT:TO-92_Inline_Wide;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26B7B
+Path = /58C38E17
+Reference = D16;
+ValeurCmp = DIAC-DB3;
+IdModule  = Diodes_THT:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26B82
+Path = /58C38F40
+Reference = D17;
+ValeurCmp = BT151;
+IdModule  = Diodes_THT:Diode_TO-220_Dual_CommonCathode_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26B8A
+Path = /58A52BE6
+Reference = F1;
+ValeurCmp = Fuse-2A;
+IdModule  = Fuse_Holders_and_Fuses:Fuseholder5x20_horiz_open_inline_Type-I;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26B90
+Path = /58C002AA
+Reference = HS1;
+ValeurCmp = Heatsink;
+IdModule  = heatsink:heatsink-D03PA;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26B96
+Path = /58A6E1F4
+Reference = HS2;
+ValeurCmp = Heatsink;
+IdModule  = heatsink:heatsink-D03PA;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26BA6
+Path = /58A8A086
+Reference = L1;
+ValeurCmp = 1.253 mH;
+IdModule  = transfo:trafo-siemens-RM8-12A;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26BAB
+Path = /58A51856
+Reference = P1;
+ValeurCmp = IN1;
+IdModule  = Mounting_Holes:MountingHole_2.2mm_M2_DIN965_Pad;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26BB0
+Path = /58A519AB
+Reference = P2;
+ValeurCmp = IN2;
+IdModule  = Mounting_Holes:MountingHole_2.2mm_M2_DIN965_Pad;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26BB6
+Path = /58D600E8
+Reference = P3;
+ValeurCmp = FAN;
+IdModule  = Connectors_Molex:Molex_KK-6410-02_02x2.54mm_Straight;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26BC0
+Path = /58C292FE
+Reference = P5;
+ValeurCmp = OUT+;
+IdModule  = Mounting_Holes:MountingHole_2.2mm_M2_DIN965_Pad;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26BCE
+Path = /58A63A1B
+Reference = Q2;
+ValeurCmp = 20N60;
+IdModule  = TO_SOT_Packages_THT:TO-220_Neutral123_Vertical_LargePads;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26BD5
+Path = /58C08B9B
+Reference = Q3;
+ValeurCmp = TIP122;
+IdModule  = TO_SOT_Packages_THT:TO-220_Neutral123_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26BDC
+Path = /58C36E27
+Reference = Q4;
+ValeurCmp = 2N3906;
+IdModule  = TO_SOT_Packages_THT:TO-92_Inline_Wide;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26BE8
+Path = /58BD62E1
+Reference = R2;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26BF4
+Path = /58A667A4
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26BFA
+Path = /58A77157
+Reference = R5;
+ValeurCmp = 15k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26C00
+Path = /58A538A2
+Reference = R6;
+ValeurCmp = 150K1W;
+IdModule  = Resistors_THT:Resistor_Horizontal_RM15mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26C12
+Path = /58A648AC
+Reference = R9;
+ValeurCmp = 33R2;
+IdModule  = Resistors_THT:Resistor_Horizontal_RM7mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26C18
+Path = /58A5B3DA
+Reference = R10;
+ValeurCmp = 10R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26C1E
+Path = /58A748F7
+Reference = R11;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26C2A
+Path = /58A87540
+Reference = R13;
+ValeurCmp = 1k;
+IdModule  = Resistors_THT:Resistor_Horizontal_RM7mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26C30
+Path = /58A87901
+Reference = R14;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26C36
+Path = /58C0DBE7
+Reference = R15;
+ValeurCmp = 15k-1W;
+IdModule  = Resistors_THT:Resistor_Horizontal_RM15mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26C3C
+Path = /58C7C50A
+Reference = R16;
+ValeurCmp = 4.7k-1%;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26C42
+Path = /58A99EBA
+Reference = R17;
+ValeurCmp = 33k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26C48
+Path = /58A93807
+Reference = R18;
+ValeurCmp = 27k;
+IdModule  = Resistors_THT:Resistor_Horizontal_RM7mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26C4E
+Path = /58A93FD4
+Reference = R19;
+ValeurCmp = 27k;
+IdModule  = Resistors_THT:Resistor_Horizontal_RM7mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26C54
+Path = /58A94092
+Reference = R20;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26C5A
+Path = /58A942A6
+Reference = R21;
+ValeurCmp = 3k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26C84
+Path = /58C975C3
+Reference = R28;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26C8A
+Path = /58C70C60
+Reference = R29;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26C90
+Path = /58D40DE4
+Reference = R30;
+ValeurCmp = 1k;
+IdModule  = Resistors_THT:Resistor_Horizontal_RM7mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26C96
+Path = /58D4173A
+Reference = R31;
+ValeurCmp = 1k;
+IdModule  = Resistors_THT:Resistor_Horizontal_RM7mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26C9C
+Path = /58D66283
+Reference = R32;
+ValeurCmp = 1k;
+IdModule  = Resistors_THT:Resistor_Horizontal_RM7mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26CA2
+Path = /58C7527E
+Reference = R33;
+ValeurCmp = 10R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26CA8
+Path = /58D5E750
+Reference = R34;
+ValeurCmp = 100R-1W;
+IdModule  = Resistors_THT:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26CAE
+Path = /58C1E41E
+Reference = R35;
+ValeurCmp = 0.1R-2W;
+IdModule  = Resistors_THT:Resistor_Horizontal_RM20mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26CB4
+Path = /58C0AB64
+Reference = R36;
+ValeurCmp = 20k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26CBA
+Path = /58C2475E
+Reference = R37;
+ValeurCmp = 3k;
+IdModule  = Resistors_THT:Resistor_Horizontal_RM7mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26CC6
+Path = /58C386DE
+Reference = R39;
+ValeurCmp = 100R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26CCC
+Path = /58C37A82
+Reference = R40;
+ValeurCmp = 3k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26CD2
+Path = /58C37B99
+Reference = R41;
+ValeurCmp = 20k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26CD8
+Path = /58C4CFA7
+Reference = R42;
+ValeurCmp = 20k;
+IdModule  = Resistors_THT:Resistor_Horizontal_RM7mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26CDE
+Path = /58C2B7DA
+Reference = R43;
+ValeurCmp = 15k;
+IdModule  = Resistors_THT:Resistor_Horizontal_RM7mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26CE4
+Path = /58A51D76
+Reference = RV1;
+ValeurCmp = 14D471K;
+IdModule  = Varistors:RV_Disc_D12_W3.9_P7.5;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26CEB
+Path = /58C43802
+Reference = RV2;
+ValeurCmp = RV-2k;
+IdModule  = Potentiometers:Potentiometer_Bourns_3296W_3-8Zoll_Inline_ScrewUp;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26CF3
+Path = /58A51AB0
+Reference = T1;
+ValeurCmp = 180uH;
+IdModule  = inductors:inductors-MFE;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26CF9
+Path = /58A52EF2
+Reference = TH1;
+ValeurCmp = 5D-11;
+IdModule  = Discret:R3;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26CFF
+Path = /58C2762C
+Reference = TH2;
+ValeurCmp = 5D-13;
+IdModule  = Discret:R3;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26D0B
+Path = /58A5AF1F
+Reference = U1;
+ValeurCmp = UC3842;
+IdModule  = Housings_DIP:DIP-8_W7.62mm_LongPads;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26D13
+Path = /58A67BEB
+Reference = U2;
+ValeurCmp = PC817;
+IdModule  = Housings_DIP:DIP-4_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C26D1F
+Path = /58C5E0FC
+Reference = U3;
+ValeurCmp = LM358;
+IdModule  = Housings_DIP:DIP-8_W7.62mm_LongPads;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C2AD55
+Path = /58A650A6
+Reference = R12;
+ValeurCmp = 0.33R-1W;
+IdModule  = Resistors_THT:Resistor_Horizontal_RM15mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C2B8A2
+Path = /58A57489
+Reference = R8;
+ValeurCmp = 47k-2W;
+IdModule  = Resistors_THT:Resistor_Horizontal_RM15mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C2C9BD
+Path = /58A6A61B
+Reference = R1;
+ValeurCmp = 8.2k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C2CBCF
+Path = /58A5B9C1
+Reference = C8;
+ValeurCmp = 100nF-50V;
+IdModule  = Capacitors_THT:C_Rect_L7_W2.5_P5;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C2CC27
+Path = /58A66CED
+Reference = C2;
+ValeurCmp = 4.7nF;
+IdModule  = Capacitors_THT:C_Rect_L7_W2.5_P5;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C2CC2C
+Path = /58A660B4
+Reference = C3;
+ValeurCmp = 1nF;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C2CE7D
+Path = /58C27DC6
+Reference = D6;
+ValeurCmp = MUR860;
+IdModule  = Diodes_THT:Diode_TO-220_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C2D02A
+Path = /58C0918F
+Reference = R3;
+ValeurCmp = 56R-2W;
+IdModule  = Resistors_THT:Resistor_Horizontal_RM15mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C2D08E
+Path = /58C09096
+Reference = C6;
+ValeurCmp = 471 2kv;
+IdModule  = Capacitors_THT:C_Rect_L7_W2.5_P5;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C2D0EB
+Path = /58A862F7
+Reference = C12;
+ValeurCmp = 330uF100V;
+IdModule  = Capacitors_THT:C_Radial_D10_L21_P5;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C2D0F0
+Path = /58C11B13
+Reference = C17;
+ValeurCmp = 100uF35V;
+IdModule  = Capacitors_THT:C_Radial_D6.3_L11.2_P2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C2D0F5
+Path = /58C1263F
+Reference = C18;
+ValeurCmp = 220uF16V;
+IdModule  = Capacitors_THT:C_Radial_D6.3_L11.2_P2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C62E61
+Path = /58A6BAD7
+Reference = C7;
+ValeurCmp = 470pF50V;
+IdModule  = Capacitors_THT:C_Rect_L7_W2.5_P5;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C63848
+Path = /58CBAC61
+Reference = F2;
+ValeurCmp = Fuse-5A;
+IdModule  = Fuse_Holders_and_Fuses:Fuseholder5x20_horiz_open_inline_Type-I;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C65C8E
+Path = /58C7277C
+Reference = C13;
+ValeurCmp = 103;
+IdModule  = Capacitors_THT:C_Rect_L7_W2.5_P5;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C65C93
+Path = /58C9734B
+Reference = C16;
+ValeurCmp = 103;
+IdModule  = Capacitors_THT:C_Rect_L7_W2.5_P5;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C65C98
+Path = /58C38C44
+Reference = C19;
+ValeurCmp = 100nF-50V;
+IdModule  = Capacitors_THT:C_Rect_L7_W2.5_P5;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C660D9
+Path = /58A9D40C
+Reference = C15;
+ValeurCmp = 1nF-50V;
+IdModule  = Capacitors_THT:C_Rect_L7_W2.5_P5;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C66761
+Path = /58C385EB
+Reference = R38;
+ValeurCmp = 15k;
+IdModule  = Resistors_THT:Resistor_Horizontal_RM7mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C672DA
+Path = /58CB5009
+Reference = R26;
+ValeurCmp = 1k;
+IdModule  = Resistors_THT:Resistor_Horizontal_RM7mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C67E6D
+Path = /58C7BA46
+Reference = R23;
+ValeurCmp = 56k-1%;
+IdModule  = Resistors_THT:Resistor_Horizontal_RM7mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C67E72
+Path = /58C89FF5
+Reference = R24;
+ValeurCmp = 56k-1%;
+IdModule  = Resistors_THT:Resistor_Horizontal_RM7mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C752B6
+Path = /58D59DB3
+Reference = Q1;
+ValeurCmp = tran-S8050;
+IdModule  = TO_SOT_Packages_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C755CC
+Path = /58A6B2A0
+Reference = R7;
+ValeurCmp = 1k;
+IdModule  = Resistors_THT:Resistor_Horizontal_RM7mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C75B3A
+Path = /58C9ACB3
+Reference = D18;
+ValeurCmp = 1N4148;
+IdModule  = Diodes_THT:Diode_DO-41_SOD81_Vertical_AnodeUp;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C7677D
+Path = /58CB4EBC
+Reference = R25;
+ValeurCmp = 1k;
+IdModule  = Resistors_THT:Resistor_Horizontal_RM7mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C76C74
+Path = /58C8AEB3
+Reference = R22;
+ValeurCmp = 1k-1%;
+IdModule  = Resistors_THT:Resistor_Horizontal_RM7mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58CA50F0
+Path = /58A752EC
+Reference = C11;
+ValeurCmp = 103 2kv;
+IdModule  = Capacitors_THT:C_Disc_D12_P7.75;
+EndCmp
+
+EndListe

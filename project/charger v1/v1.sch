@@ -84,9 +84,6 @@ LIBS:allegro
 LIBS:actel
 LIBS:ac-dc
 LIBS:74xgxx
-LIBS:uc384x
-LIBS:trafo-siemens
-LIBS:inductors
 LIBS:v1-cache
 EELAYER 25 0
 EELAYER END
@@ -1831,7 +1828,7 @@ Connection ~ 7800 4650
 Wire Wire Line
 	7400 4350 7300 4350
 Wire Wire Line
-	7300 4650 7300 4350
+	7300 4350 7300 4650
 Connection ~ 7300 4650
 Connection ~ 8250 5100
 Wire Wire Line
@@ -2282,4 +2279,14 @@ Wire Wire Line
 Connection ~ 8250 6100
 Wire Wire Line
 	2450 5100 3100 5100
+Wire Notes Line
+	6200 5750 6300 5750
+Wire Notes Line
+	6250 5750 6250 5850
+Wire Notes Line
+	6450 5650 6550 5650
+Wire Notes Line
+	6500 5650 6500 5750
+Text Notes 6150 5950 0    60   ~ 0
+2 day nguoc nhau
 $EndSCHEMATC
